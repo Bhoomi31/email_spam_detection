@@ -1,4 +1,6 @@
-This is a ML project that is designed by using different machine learning algorithms to build a detector which can be used to recognize and classify mails into spam and not spam.
+ML project developed with various ML algorithms to create a mail classifier for spam and non-spam emails.
+Focuses on accurately recognizing and categorizing emails into spam and legitimate categories.
+
 
 Tech-Stack:  Python, Machine Learning
 
